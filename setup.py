@@ -17,4 +17,5 @@ setup(name='moby_dict',
       packages=find_packages(include=['moby_dict*']),
       include_package_data=True,
       zip_safe=False,
-      install_requires=['lxml', 'requests', 'wget'])
+      install_requires=['lxml', 'requests', 'wget'],
+      test_suite='tests',)
