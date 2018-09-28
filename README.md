@@ -1,6 +1,6 @@
 # moby_dict
 
-Python API for the Moby lexicon project, the largest word list in the world. Further details in the [references](./references)
+Python API for the Moby lexicon project, the largest word list in the world. Further details in the [references](#references).
 
 ## How to use
 
