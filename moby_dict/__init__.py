@@ -18,6 +18,7 @@ __maintainer__ = "Marco Favorito"
 __maintainer_email__ = "marco.favorito@gmail.com"
 __author__ = __maintainer__
 __author_email__ = __maintainer_email__
+__version__ = "0.1.0"
 
 # "Trove" classifiers for Python Package Index.
 __classifiers__ = [
