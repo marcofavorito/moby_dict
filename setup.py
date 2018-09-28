@@ -7,7 +7,7 @@ def readme():
 
 
 setup(name='moby_dict',
-      version='0.1.0postfix1',
+      version='0.1.0.postfix1',
       description='Programmatic access to Moby Project in Python',
       url="https://github.com/MarcoFavorito/moby_dict",
       author="Marco Favorito",
